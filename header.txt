@@ -1,3 +1,6 @@
-Some examle text
-Changes from <master> - new changes!!!
+Some examle text for header
+Changes from <master>
+Changes from <first>
+
+Text from master: new changes!!!
 
